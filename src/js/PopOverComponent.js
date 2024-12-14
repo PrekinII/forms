@@ -1,3 +1,4 @@
+/* eslint-disable class-methods-use-this */
 export default class PopOverComponent {
   constructor(parentEl, obj) {
     this.parentEl = parentEl;
